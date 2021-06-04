@@ -39,3 +39,17 @@ footer {
   font-family: 'Playfair Display', serif;
 
 }
+
+@media (max-width: 990px){
+  #title{
+    text-align: center;
+  }
+.container{
+ font-size:2rem;
+ text-align: center;
+}
+h1{
+font-size:4rem;  
+}
+
+}
